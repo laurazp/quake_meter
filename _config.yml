@@ -23,8 +23,8 @@ navbar-links:
   Home: "https://laurazp.github.io/quake_meter"
   About Me: "aboutme"
   Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    # - Learn markdown: "https://www.markdowntutorial.com/"
+    - Project on GitHub: "https://github.com/laurazp/quake_meter"
+    - Download: "https://github.com/laurazp/quake_meter"
   # Author's home: "https://deanattali.com"
 
 ################
