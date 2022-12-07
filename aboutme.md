@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Know a little bit more about me
+subtitle: A little bit more about me
 ---
 
 Work in progress
